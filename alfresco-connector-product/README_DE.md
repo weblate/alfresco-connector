@@ -1,9 +1,9 @@
 # Alfreso Plattform ECM Konnektor
 
 Der [Alfresco Plattform ECM](https://www.alfresco.com/de/ecm-software)-Konnektor
-von Axon Ivy Dir dabei auf Unternehmensinhalte zugreifen können, die in einem
-Alfresco-ECM abgelegt sind. Die Alfresco Plattform umfasst alle Funktionen eines
-Enterprise-Content-Management-Systems (ECM).
+von Axon Ivy hilft Dir dabei auf Unternehmensinhalte zugreifen können, die in
+einem Alfresco-ECM abgelegt sind. Die Alfresco Plattform umfasst alle Funktionen
+eines Enterprise-Content-Management-Systems (ECM).
 
 Dieser Konnektor:
 
@@ -21,7 +21,7 @@ Zeigt, wie man Ordner erstellt und Dokumente speichert.
 
 Wenn Du die Docker-Installation wie in Kapitel
 [Setup](https://market.axonivy.com/alfrescoecm#tab-setup) beschrieben, verwendet
-haben, kannst Du den Daten Upload mit
+hast, kannst Du den Daten Upload mit
 http://localhost:8080/content-app/#/personal-files testen – die Datei sollte im
 Ordner „shared” abgelegt werden:
 
